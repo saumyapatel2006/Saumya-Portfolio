@@ -59,4 +59,4 @@ Simply connect your GitHub repository to your provider of choice and set the roo
 
 **Saumya Patel**
 - GitHub: https://github.com/saumyapatel2006
-- LinkedIn: https://www.linkedin.com/in/saumya-patel-02801631/
+- LinkedIn: https://www.linkedin.com/in/saumya-patel-02801631b/
